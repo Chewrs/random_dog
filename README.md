@@ -5,7 +5,7 @@ This little website will show you a random dog picture every time you reload it.
 ## Usage
 You can try the website on [this link](https://chewrs.pythonanywhere.com/dog).
 
-for try make your own, you can follow the step below.
+for try make your own by follow the step below.
 1. clone this repository 
 ```
 git clone....
