@@ -8,7 +8,7 @@ You can try the website on [this link](https://chewrs.pythonanywhere.com/dog).
 for try make your own by follow the step below.
 1. clone this repository 
 ```
-git clone....
+git clone https://github.com/Chewrs/random_dog.git
 ```
 2. install all the library
 ```
