@@ -16,7 +16,7 @@ git clone https://github.com/Chewrs/random_dog.git
  or
  pip3 -r requirements.txt
 ```
-3. you can adjust the API and Flask in flask_app.py, and the html in /templates/index.html
+3. you can adjust the API and Flask in [flask_app.py](https://github.com/Chewrs/random_dog/blob/main/flask_app.py), and the html in [/templates/index.html](https://github.com/Chewrs/random_dog/blob/main/templates/index.html)
 
 4. host the website, you can host on whatever you want. But I use [pythonanywhere](https://www.pythonanywhere.com/) by follow the [tutorial video](https://youtu.be/v1PfNYOQ4Fk?t=480) on YouTube
 > !! More information about this project will come soon !!
